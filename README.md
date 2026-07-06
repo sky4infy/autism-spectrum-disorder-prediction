@@ -41,3 +41,7 @@ This project is a Machine Learning classification system developed to predict Au
 
 ## Conclusion
 This project demonstrates an end-to-end machine learning workflow for healthcare-related classification problems.
+
+
+## update
+building web app and improving model, fixing pipeline... working on it
